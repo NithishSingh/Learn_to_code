@@ -1,4 +1,4 @@
-print("Krish")
+print("Krishnan")
 print("23rd Sep 2022")
 print("""I am signing up for Replit's 100 days of Python challenge!
 I will make sure to spend some time every day coding along, for a minimum of 10 minutes a day.
